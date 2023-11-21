@@ -2,6 +2,7 @@
     font-family: 'Times New Roman', Times, serif;
    
 }
+
 /* header style starts form here */
 header{
     background-image: url('../images/donation13.jpg');
@@ -93,3 +94,62 @@ header{
 }
 
 /* donate style end here */
+
+/* donate plan style start here */
+
+.donate_plan{
+    background-color: white;
+    margin: 50px 130px;
+   
+}
+.donate_plan_title{
+
+text-align: center;
+ font-size:30px;
+ margin-top: 40px;
+ font-size: 35px;
+}
+.donate_plan_description{
+    text-align: center;
+    font-size: 14px;
+
+}
+.card{
+   display: flex;
+   gap: 15px;
+  
+    
+}
+.card1{
+  
+    padding: 25px;
+    margin-top: 40px;
+    margin :50px 110px;
+    justify-content: center;
+    border-radius: 0.2rem;
+    
+    
+
+
+}
+.one{
+background-color: lightblue;
+
+}
+.two{
+
+    background-color: lightpink;
+}
+.three{
+    background-color: lightyellow;
+
+}
+.card_title{
+    font-size: medium;
+    margin-bottom: 4px;
+
+}
+
+
+/* donate plan style end here */
+
