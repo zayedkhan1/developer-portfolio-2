@@ -9,7 +9,7 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     height: 70vh;
-     margin: 50px 130px;
+     margin:0 130px;
     
 }
 .header{
@@ -153,3 +153,100 @@ background-color: lightblue;
 
 /* donate plan style end here */
 
+/* our donation style start here */
+
+
+.our_donate{
+    margin: 50px 130px;
+    background-color: white;
+    
+   
+    
+}
+.our_donation{
+    display: flex;
+    text-align: center;
+    justify-content:center;
+    gap: 30px;
+
+}
+.description{
+   width: 600px;
+   
+   
+}
+.description_title{
+    font-size: 38px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.description_body{
+    font-size: 16px;
+   padding: 20px;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+/* our donation style start here */
+
+/* update style start here */
+
+.update{
+    margin: 50px 380px;
+    background-color: white;
+    margin-top: 80px;
+}
+.update_title{
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+ 
+
+}
+.update_description{
+    font-size: 18px;
+    text-align: center;
+}
+.box{
+    text-align: center;
+    padding: 50px;
+    background-color:lightyellow;
+   
+    justify-content: center;
+    
+    
+    
+
+}
+.box input{
+    font-size: larger;
+    padding: 9px;
+    border: 0;
+    background-color: whitesmoke;
+    
+
+}
+.btn_primary{
+    font-size: larger;
+
+}
+
+
+/* update style start here */
+/* footer style start here */
+footer{
+    background-color: black;
+    padding: 20px;
+
+}
+.footer_heading{
+    color: red;
+    text-align: center;
+    font-family: monospace;
+}
+.footer_ending{
+   color: white;
+   text-align: center;
+   font-size: 15px;
+}
+/* footer style end here */
